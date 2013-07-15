@@ -1,0 +1,14 @@
+{
+	"name": "yiistrapwidgets",
+	"version": "0.1",
+	"author": "Luis Lobo Borobia <luislobo@gmail.com>",
+	"description": "Yiistrap Widgets, based on Yiibooster Widgets.",
+	"keywords": [
+		"yii",
+		"yiistrap",
+		"bootstrap",
+		"widgets",
+		"extensions",
+		"extension"
+	]
+}
